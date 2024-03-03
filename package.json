@@ -1,0 +1,20 @@
+{
+  "name": "lite-react-hooks",
+  "version": "1.0.0",
+  "description": "Простой Hook менеджер для React'а",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatk/lite-react-hooks.git"
+  },
+  "keywords": ["hooksmanager", "react", "hooks"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aatk/lite-react-hooks/issues"
+  },
+  "homepage": "https://github.com/aatk/lite-react-hooks#readme"
+}
